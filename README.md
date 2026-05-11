@@ -1,6 +1,10 @@
 Hello everyone. 
 
-This is Sattvik Yadav, co-author of the code and the repository owner. My partner, Shiva Thanay Pandiri and I wrote this code, most of it by ourselves, but we also had Claude AI and Gemini to help us in the coding process :). This is the simulation code for the modified 4f setup for the experiment Fourier Optics and Spatial Filtering. It includes testing, defect detection, fingerprint identification, and code for data (image) analysis.
+This is Sattvik Yadav, co-author of the code and the repository owner. My partner, Shiva Thanay Pandiri and I wrote this code, most of it by ourselves, but we also had Claude AI and Gemini to help us in the coding process :). 
+
+Attached here are the full report, poster presented and the code for the experiment.
+
+This is the simulation code for the modified 4f setup for the experiment Fourier Optics and Spatial Filtering. It includes testing, defect detection, fingerprint identification, and code for data (image) analysis.
 
 Requirements 
 * Numpy
