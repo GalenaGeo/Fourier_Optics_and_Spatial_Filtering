@@ -17,3 +17,7 @@ Requirements
 Update 1 (11/05/2026): This is my first proper repository, so it's not very attractive work- or display-wise, but I have plans to improve it. There is an error: the code does not display on GitHub and is only visible after download. We will work on the same thing soon. Proper documentation and code modularity will be implemented soon, hopefully by the end of July. Those who come here, please stay tuned. Thank you.
 
 May the Force be With You
+
+Update 2 (29/06/2026): Hello! This is Shiva Thanay Pandiri, the co-author of the code. I have added my final report, final poster, and the fingerprint matching code along with few test fingerprints, their noised up versions that were used to test the code. Please expect better documentation and an upgrade of the code in the near-future. Thank you!
+
+May the Force continue to be With You
